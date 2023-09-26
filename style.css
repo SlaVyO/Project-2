@@ -1,0 +1,125 @@
+	.mytime {
+		color: gray;
+		font-style: italic;
+		font-size: 12px;
+		float: right;
+	}
+	
+	.msg p{
+		font-size: 18px;
+	}
+	
+	.msg {
+		max-width: 600px;	
+		background: aliceblue;	
+	}
+	
+	.textbody{
+		max-width: 650px;	
+		max-height: 550px;
+		overflow-y:scroll;	
+	}
+	
+	.text-nikname{
+		color: red;	
+	}
+	
+	.form_nikname{
+		font-size: 22px;	
+		color: blue;
+		float: left;
+	}
+
+	.exitform{
+		float: left;
+		display: block;
+		width: 100%;	
+	}
+
+	.prfedit{
+		margin-right: 50px;
+	}
+	/*start*/
+	.regform {
+		text-align: center;	
+	}
+
+	.signinform	{
+		text-align: center;	
+	}
+	.servise_msg{
+		display: block;
+		text-align: center;
+	}
+
+	/*reg*/
+	#regform {
+		text-align: center;	
+		display: block;
+	}
+
+	#signinform {
+		text-align: center;	
+		display: block;
+	}
+
+	#result_form{
+		text-align: center;	
+	}
+
+	.iserror{
+		color: red;
+		font-style: italic;
+	}
+
+	.nobloked{
+		color: green;
+	}
+
+	.bloked{
+	color: red;	
+	}
+
+	.userbord{
+		border:  2px solid #b6b6b6;
+        padding: 10px;
+        border-collapse: collapse;
+        margin: 0 auto;
+
+	}
+
+	.userbord tbody{
+		border-collapse: separate;
+		margin: 0 auto;
+	}
+
+	.tabhead{
+		color: #2d4199;
+	/*border: 2px solid #b6b6b6;	*/
+	background: aquamarine;
+	}
+
+	.tabhead th, .userbord td{
+	border: 2px solid #b6b6b6;	
+	padding: 3px 5px 3px 5px;	
+	}
+	.cwhite{
+	background:none;
+	}
+	.cgrey{
+	background:#f2f2f2;	
+	}
+	.smallgray{
+		color: gray; 
+		font-size: 12px;
+	}
+	.showart{
+		display: block;
+		max-width: 70%;
+		margin: 0 auto;
+	}
+	.aticcontent{
+		text-align:inherit;
+		text-align: left !important ; 
+
+	}
